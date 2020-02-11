@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_I have:_
+
+__Add a header__
+
+__Add an image__
+
+__Add a profile link__
